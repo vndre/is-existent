@@ -1,0 +1,13 @@
+{
+  "name": "is-existent",
+  "version": "1.0.1",
+  "description": "checks if parameter exists.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/vndre/is-existent.git"
+  }
+}
